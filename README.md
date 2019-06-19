@@ -1,4 +1,6 @@
-Trakya Üniversitesi Sistem Analizi ve Tasarımı için geliştirmiş Eğitim Uygulaması,
+![logo](https://user-images.githubusercontent.com/13876601/59808451-fe78e980-9304-11e9-8126-42e5a11b27d1.png)
+
+_**Trakya Üniversitesi Sistem Analizi ve Tasarımı için geliştirmiş Eğitim Uygulaması**_
 
 1. Fizibilite çalışması ve fizibilite matrisi
 
